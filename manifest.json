@@ -1,0 +1,18 @@
+{
+	"initial": [
+		"js/egret.min_37f7c522.js",
+		"js/egret.web.min_9cc00ee1.js",
+		"js/eui.min_493403ce.js",
+		"js/assetsmanager.min_6364ebb2.js",
+		"js/tween.min_6c5a88f9.js",
+		"js/dragonBones.min_6252b9c4.js",
+		"js/game.min_16249d0f.js",
+		"js/socket.min_8b4cb752.js",
+		"js/egretia-sdk.min_5ef2df81.js",
+		"js/promise.min_83a6a5d.js"
+	],
+	"game": [
+		"js/default.thm_16e8f397.js",
+		"js/main.min_d163cb7.js"
+	]
+}
