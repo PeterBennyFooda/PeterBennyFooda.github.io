@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json",
+			"keys": "checkbox_select_disabled_png,checkbox_select_down_png,checkbox_select_up_png,checkbox_unselect_png,selected_png,border_png,header_png,radiobutton_select_disabled_png,radiobutton_select_down_png,radiobutton_select_up_png,radiobutton_unselect_png,roundthumb_png,thumb_png,track_png,tracklight_png,handle_png,off_png,on_png,button_down_png,button_up_png,thumb_pb_png,track_pb_png,track_sb_png,bg_jpg,egret_icon_png,description_json,logo_png,dump1-1,dump1-2,dump1-3,dump2-1,dump2-2,dump2-3,dump2-4,dump3-1,dump3-2,dump3-3,dump3-4,dump3-5,bgm_fight,bgm_menu,se_bad,se_good,se_dump, se_finish,se_start,se_32,se_1",
 			"name": "preload"
 		}
 	],
@@ -122,7 +122,7 @@
 			"name": "track_sb_png"
 		},
 		{
-			"url": "assets/bg.jpg",
+			"url": "assets/bg.png",
 			"type": "image",
 			"name": "bg_jpg"
 		},
@@ -135,6 +135,116 @@
 			"name": "description_json",
 			"type": "json",
 			"url": "config/description.json"
+		},
+		{
+			"url": "assets/logo.png",
+			"type": "image",
+			"name": "logo_png"
+		},
+		{
+			"url": "assets/Dumplings/dumpling1-1.png",
+			"type": "image",
+			"name": "dump1-1"
+		},
+		{
+			"url": "assets/Dumplings/dumpling1-2.png",
+			"type": "image",
+			"name": "dump1-2"
+		},
+		{
+			"url": "assets/Dumplings/dumpling1-3.png",
+			"type": "image",
+			"name": "dump1-3"
+		},
+		{
+			"url": "assets/Dumplings/dumpling2-1.png",
+			"type": "image",
+			"name": "dump2-1"
+		},
+		{
+			"url": "assets/Dumplings/dumpling2-2.png",
+			"type": "image",
+			"name": "dump2-2"
+		},
+		{
+			"url": "assets/Dumplings/dumpling2-3.png",
+			"type": "image",
+			"name": "dump2-3"
+		},
+		{
+			"url": "assets/Dumplings/dumpling2-4.png",
+			"type": "image",
+			"name": "dump2-4"
+		},
+		{
+			"url": "assets/Dumplings/dumpling3-1.png",
+			"type": "image",
+			"name": "dump3-1"
+		},
+		{
+			"url": "assets/Dumplings/dumpling3-2.png",
+			"type": "image",
+			"name": "dump3-2"
+		},
+		{
+			"url": "assets/Dumplings/dumpling3-3.png",
+			"type": "image",
+			"name": "dump3-3"
+		},
+		{
+			"url": "assets/Dumplings/dumpling3-4.png",
+			"type": "image",
+			"name": "dump3-4"
+		},
+		{
+			"url": "assets/Dumplings/dumpling3-5.png",
+			"type": "image",
+			"name": "dump3-5"
+		},
+		{
+			"url": "sound/BGM/Fight.wav",
+			"type": "sound",
+			"name": "bgm_fight"
+		},
+		{
+			"url": "sound/BGM/Menu.wav",
+			"type": "sound",
+			"name": "bgm_menu"
+		},
+		{
+			"url": "sound/SE/bad.wav",
+			"type": "sound",
+			"name": "se_bad"
+		},
+		{
+			"url": "sound/SE/good.wav",
+			"type": "sound",
+			"name": "se_good"
+		},
+		{
+			"url": "sound/SE/dump.wav",
+			"type": "sound",
+			"name": "se_dump"
+		},
+		{
+			"url": "sound/SE/Finish.wav",
+			"type": "sound",
+			"name": "se_finish"
+		},
+		{
+			"url": "sound/SE/Start.wav",
+			"type": "sound",
+			"name": "se_start"
+		},
+		{
+			"url": "sound/SE/32.wav",
+			"type": "sound",
+			"name": "se_32"
+		},
+		{
+			"url": "sound/SE/1.wav",
+			"type": "sound",
+			"name": "se_1"
 		}
 	]
 }
