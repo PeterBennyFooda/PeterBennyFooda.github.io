@@ -10,10 +10,11 @@
 		"js/socket.min_8b4cb752.js",
 		"js/egretia-sdk.min_5ef2df81.js",
 		"js/promise.min_83a6a5d.js",
-		"js/keyboard.min_85f60ff8.js"
+		"js/keyboard.min_85f60ff8.js",
+		"js/neoges_lib.min_dec892ac.js"
 	],
 	"game": [
 		"js/default.thm_ac69140d.js",
-		"js/main.min_ed2f7ef.js"
+		"js/main.min_5674dba1.js"
 	]
 }
